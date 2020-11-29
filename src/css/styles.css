@@ -1,0 +1,11 @@
+/* Прописываем глобальные стили */
+
+body {
+  background: black;
+  color: wheat;
+}
+
+ul {
+  list-style: none;
+}
+
